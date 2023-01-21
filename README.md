@@ -1,4 +1,4 @@
-### Hi there my name is Momin Kashif. How do I change my git username? 
+### Hi there my name is Momin Kashif.
 
 - 🔭 I’m currently working on completing my second degree in CS
 - 🌱 I’m currently learning  Dr. Racket and Python
